@@ -15,6 +15,6 @@ seaborn==0.8.1
 # Overview
 * [raw_data](raw_data) - contains all raw csv files for EPL and EFL seasons
 * [data](data) - contains all preprocessed csv files for EPL seasons
-* [scripts] - contains code for processing and analyzing results
+* [scripts](scripts) - contains code for processing and analyzing results
 
 
