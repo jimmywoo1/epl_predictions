@@ -1,5 +1,5 @@
 # EPL Predictions
-Predictions on English Premier League standings using machine learning models based on historical dataset from seasons 2005-2006 to 2018-2019 (raw data can be found [here](http://www.football-data.co.uk/data.php)).
+Predictions on English Premier League standings using a linear regression model based on historical dataset from seasons 2005-2006 to 2018-2019 (raw data can be found [here](http://www.football-data.co.uk/data.php)).
 
 # Prerequisites
 The following are the python libraries used for this project:
@@ -15,6 +15,6 @@ seaborn==0.8.1
 # Overview
 * [raw_data](raw_data) - contains all raw csv files for EPL and EFL seasons
 * [data](data) - contains all preprocessed csv files for EPL seasons
-* [scripts](scripts) - contains code for processing and analyzing results
+* [src](src) - contains code for processing and analyzing results
 
 
